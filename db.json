@@ -1,0 +1,74 @@
+{
+    "heroes": [
+      {
+        "id": 1,
+        "name": "Капитан Америка",
+        "description": "Герой вне времени Стив Роджерс борется за свободу в качестве непоколебимого Капитана Америка.",
+        "image_url": "https://kvmarvel.ru/wp-content/uploads/1918/07/captain-america-infinity-war-286x400.png",
+        "image_big_url": "https://24smi.org/public/media/person/2017/11/14/cw5pxrzewyao-kapitan-amerika.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Железный человек",
+        "description": "Эксцентричный гений, миллионер, дамский угодник и филантроп Тони Старк также является супергероем в броне, известным как Железный Человек. ",
+        "image_url": "https://kvmarvel.ru/wp-content/uploads/1970/05/ironman-1-286x400.png",
+        "image_big_url": "https://cdn.igromania.ru/mnt/news/3/7/f/0/e/c/81714/1dd9eb5af028951e_848x477.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Тор",
+        "description": "Тор Одинсон (Thor Odinson) — принц Асгарда и бывший член команды Мстителей. Когда его безответственные действия повлекли за собой угрозу его родному миру, Тор был лишен своих сил и изгнан на Землю своим отцом Одином, царем Асгарда. Будучи в изгнании, Тор научился смирению, влюбился в доктора Джейн Фостер и спас своих новых друзей от разрушительной угрозы, посланной его завистливым сводным братом Локи, мечтающим захватить трон Асгарда. Тор смог остановить Локи, в результате чего был прощен Одином и получил свою силу назад. ",
+        "image_url": "https://kvmarvel.ru/wp-content/uploads/1015/03/thor-2-286x400.png",
+        "image_big_url": "https://beztabu.net/uploads/770x433_DIR/media_news/2018/04/2d874b152492874c159e95233cc517afbef7326a.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Капитан марвел",
+        "description": "Кэрол Денверс (Carol Danvers) — пилот в Воздушных силах США, которая получила силы космического происхождения и теперь её называют Капитан Марвел (Captain Marvel). ",
+        "image_url": "https://kvmarvel.ru/wp-content/uploads/2018/03/captain-marvel-photo-286x400.png",
+        "image_big_url": "https://i.pinimg.com/736x/66/dc/53/66dc5311ff5f0e099c54d55524248311.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Звёздный лорд",
+        "description": "Питер Джейсон Квилл (Peter Jason Quill) — получеловек, полуцелестиал, лидер команды Стражи галактики, также известный как Звёздный лорд (Star-Lord). ",
+        "image_url": "https://kvmarvel.ru/wp-content/uploads/2018/03/star-lord-286x400.png",
+        "image_big_url": "https://i.ytimg.com/vi/u5TXDsB--p4/maxresdefault.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Танос",
+        "description": "Танос (Thanos), также известный его самыми преданными подчинёнными как Тёмный владыка (Dark Lord), а также неофициально называемый Безумным титаном (Mad Titan) галактическими общинами — могущественный космический военачальник, правящий далёким регионом космоса и командовавший внушительной армией, которая известна как Читаури, а также Аутрайдерами. ",
+        "image_url": "https://kvmarvel.ru/wp-content/uploads/2018/03/marvel-avengers-infinity-war-thanos-286x400.png",
+        "image_big_url": "https://media0ch-a.akamaihd.net/39/19/d837dc40314808ecbd9033fc95937293.jpeg"
+      },
+      {
+        "id": 7,
+        "name": "Локи",
+        "description": "Локи Лафейсон (Loki Laufeyson) — сын правителя ледяных великанов, Лафея. Вскоре, после своего рождения, Локи был оставлен умирать, но был найден Одином, королём Асгарда, который забрал его с собой. Один и его жена Фригга растили Локи как принца Асгарда, наравне с их биологическим сыном Тором. Когда Локи вырос, он стал известен как «Бог лжи». ",
+        "image_url": "https://kvmarvel.ru/wp-content/uploads/0965/03/loki-286x400.png",
+        "image_big_url": "https://www.buro247.ru/thumb/670x830_0/images/andreeva/670-830-tom-hiddleston-as-loki-in-2012s-the-avengers.png"
+      },
+      {
+        "id": 8,
+        "name": "Халк",
+        "description": "Спасая жизнь подростку, доктор Брюс Беннер оказался в эпицентре взрыва гамма-бомбы, после которого он обнаружил у себя необычные способности. Стоит кому-то разозлить или спровоцировать его, как он теряет контроль над собой и превращается в зелёного монстра Халка. ",
+        "image_url": "https://kvmarvel.ru/wp-content/uploads/1969/12/hulk-286x400.png",
+        "image_big_url": "https://marvel.com.ru/imagecache/original/uploads/images/36ff37b0de95ebbd8dffaa7f.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Доктор Стрэндж",
+        "description": "Доктор Стивен Винсент Стрэндж (Doctor Stephen Vincent Strange), также известный как Доктор Стрэндж (Doctor Strange) — новый Верховный Маг Земли, ранее бывший известным нейрохирургом. ",
+        "image_url": "https://kvmarvel.ru/wp-content/uploads/2018/03/doctor-strange-286x400.png",
+        "image_big_url": "https://www.film.ru/sites/default/files/styles/epsa_1024x450/public/23971621-918434.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Вижен",
+        "description": "Вижен (возможен вариант Вижн) (Vision) — могущественное синтетическое существо с телом из вибраниума, которое было создано Альтроном и доктором Хелен Чо, запрограммировано Тони Старком и Брюсом Беннером, используя коды Д.Ж.А.Р.В.И.С.а и активировано с помощью камня разума, который был спрятан в скипетре. ",
+        "image_url": "https://kvmarvel.ru/wp-content/uploads/2018/03/vision-286x400.png",
+        "image_big_url": "https://vignette.wikia.nocookie.net/anime-characters-fight/images/0/0a/Vision_Forest.jpg/revision/latest?cb=20161227121602&path-prefix=ru"
+      }
+    ]
+  }
