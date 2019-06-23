@@ -25,50 +25,26 @@
         "id": 4,
         "name": "Капитан марвел",
         "description": "Кэрол Денверс (Carol Danvers) — пилот в Воздушных силах США, которая получила силы космического происхождения и теперь её называют Капитан Марвел (Captain Marvel). ",
-        "image_url": "https://kvmarvel.ru/wp-content/uploads/2018/03/captain-marvel-photo-286x400.png",
-        "image_big_url": "https://i.pinimg.com/736x/66/dc/53/66dc5311ff5f0e099c54d55524248311.jpg"
+        "image_url": "https://i.pinimg.com/564x/20/29/d7/2029d723a1edd5e7058921725eb130fb.jpg",
+        "image_big_url": "https://i.pinimg.com/564x/20/29/d7/2029d723a1edd5e7058921725eb130fb.jpg"
       },
-      {
-        "id": 5,
-        "name": "Звёздный лорд",
-        "description": "Питер Джейсон Квилл (Peter Jason Quill) — получеловек, полуцелестиал, лидер команды Стражи галактики, также известный как Звёздный лорд (Star-Lord). ",
-        "image_url": "https://kvmarvel.ru/wp-content/uploads/2018/03/star-lord-286x400.png",
-        "image_big_url": "https://i.ytimg.com/vi/u5TXDsB--p4/maxresdefault.jpg"
-      },
-      {
-        "id": 6,
-        "name": "Танос",
-        "description": "Танос (Thanos), также известный его самыми преданными подчинёнными как Тёмный владыка (Dark Lord), а также неофициально называемый Безумным титаном (Mad Titan) галактическими общинами — могущественный космический военачальник, правящий далёким регионом космоса и командовавший внушительной армией, которая известна как Читаури, а также Аутрайдерами. ",
-        "image_url": "https://kvmarvel.ru/wp-content/uploads/2018/03/marvel-avengers-infinity-war-thanos-286x400.png",
-        "image_big_url": "https://media0ch-a.akamaihd.net/39/19/d837dc40314808ecbd9033fc95937293.jpeg"
-      },
+     
+     
       {
         "id": 7,
         "name": "Локи",
         "description": "Локи Лафейсон (Loki Laufeyson) — сын правителя ледяных великанов, Лафея. Вскоре, после своего рождения, Локи был оставлен умирать, но был найден Одином, королём Асгарда, который забрал его с собой. Один и его жена Фригга растили Локи как принца Асгарда, наравне с их биологическим сыном Тором. Когда Локи вырос, он стал известен как «Бог лжи». ",
-        "image_url": "https://kvmarvel.ru/wp-content/uploads/0965/03/loki-286x400.png",
-        "image_big_url": "https://www.buro247.ru/thumb/670x830_0/images/andreeva/670-830-tom-hiddleston-as-loki-in-2012s-the-avengers.png"
+        "image_url": "https://i.pinimg.com/564x/07/cf/14/07cf14919fb904277015bedeaab523eb.jpg",
+        "image_big_url": "https://i.pinimg.com/564x/07/cf/14/07cf14919fb904277015bedeaab523eb.jpg"
       },
       {
         "id": 8,
         "name": "Халк",
         "description": "Спасая жизнь подростку, доктор Брюс Беннер оказался в эпицентре взрыва гамма-бомбы, после которого он обнаружил у себя необычные способности. Стоит кому-то разозлить или спровоцировать его, как он теряет контроль над собой и превращается в зелёного монстра Халка. ",
-        "image_url": "https://kvmarvel.ru/wp-content/uploads/1969/12/hulk-286x400.png",
-        "image_big_url": "https://marvel.com.ru/imagecache/original/uploads/images/36ff37b0de95ebbd8dffaa7f.jpg"
-      },
-      {
-        "id": 9,
-        "name": "Доктор Стрэндж",
-        "description": "Доктор Стивен Винсент Стрэндж (Doctor Stephen Vincent Strange), также известный как Доктор Стрэндж (Doctor Strange) — новый Верховный Маг Земли, ранее бывший известным нейрохирургом. ",
-        "image_url": "https://kvmarvel.ru/wp-content/uploads/2018/03/doctor-strange-286x400.png",
-        "image_big_url": "https://www.film.ru/sites/default/files/styles/epsa_1024x450/public/23971621-918434.jpg"
-      },
-      {
-        "id": 10,
-        "name": "Вижен",
-        "description": "Вижен (возможен вариант Вижн) (Vision) — могущественное синтетическое существо с телом из вибраниума, которое было создано Альтроном и доктором Хелен Чо, запрограммировано Тони Старком и Брюсом Беннером, используя коды Д.Ж.А.Р.В.И.С.а и активировано с помощью камня разума, который был спрятан в скипетре. ",
-        "image_url": "https://kvmarvel.ru/wp-content/uploads/2018/03/vision-286x400.png",
-        "image_big_url": "https://vignette.wikia.nocookie.net/anime-characters-fight/images/0/0a/Vision_Forest.jpg/revision/latest?cb=20161227121602&path-prefix=ru"
+        "image_url": "https://i.pinimg.com/564x/e3/ff/92/e3ff927f565f35d9de0db1bf1de97f32.jpg",
+        "image_big_url": "https://i.pinimg.com/564x/e3/ff/92/e3ff927f565f35d9de0db1bf1de97f32.jpg"
       }
+      
+     
     ]
   }
