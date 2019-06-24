@@ -38,7 +38,7 @@
         "id": 7,
         "name": "Алан Мур",
         "description": "английский писатель, известный, прежде всего, работой в комиксах. Создал ряд произведений, положительно отмеченных критиками.",
-        "q": "количество комиксов 123"
+        "q": "количество комиксов 123",
           "image_url": "http://stuki-druki.com/aforizms/Alan%20Moore01.jpg",
         "image_big_url": "https://redrumers.files.wordpress.com/2016/08/jerusalemnews.jpg?w=768"
       },
@@ -46,7 +46,7 @@
         "id": 8,
         "name": "Уилл Айснер",
        "description": "мериканский художник, издатель, сценарист еврейского происхождения. Считается одним из «отцов» современного комикса. ",
-        "q": "количество комиксов 323"
+        "q": "количество комиксов 323",
           "image_url": "https://www.kultoboz.ru/sites/default/files/images/news/literature/1247830030_will_1970s.jpg",
         "image_big_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Will_Eisner2.jpg/267px-Will_Eisner2.jpg"
       }
