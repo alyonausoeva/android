@@ -52,5 +52,59 @@
       }
       
      
+    ], 
+    "comics": [
+      {
+        "id": 1,
+        "name": "Стэн Ли",
+        "description": " американский писатель, актёр, продюсер, телеведущий, сценарист, редактор и создатель множества персонажей комиксов, бывший президент и председатель совета директоров издательства Marvel Comics",
+        "q": "количество комиксов 243",
+         "image_url": "https://img.gazeta.ru/files3/503/12056503/RTR30MCS-pic905-895x505-67173.jpg",
+        "image_big_url": "https://cdnimg.rg.ru/img/content/141/38/96/Depositphotos_50749977_l-2015_d_850.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Джек Керба",
+        "description": " американский писатель, художник и редактор комиксов. Участвовал в создании таких персонажей, как Капитан Америка, Халк, Фантастическая четвёрка, Люди Икс и др. ",
+        "q": "количество комиксов 453",
+          "image_url": "https://st.kp.yandex.net/images/actor_iphone/iphone360_29954.jpg",
+        "image_big_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jack_Kirby_%281982%29_%28cropped%29.jpg/250px-Jack_Kirby_%281982%29_%28cropped%29.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Фрэнк Милер",
+        "description": "мериканский иллюстратор, автор комиксов и кинорежиссёр, наиболее известный своими графическими новеллами, выполненными в стиле нуар ",
+        "q": "количество комиксов 233",
+          "image_url": "https://st.kp.yandex.net/images/actor_iphone/iphone360_30393.jpg",
+        "image_big_url": "https://data.fantlab.ru/images/autors/10164"
+      },
+      {
+        "id": 4,
+        "name": "Стив Дитко",
+        "description": "американский писатель и художник комиксов чехословацкого происхождения, известный благодаря своим работам в компании Marvel Comics и сотрудничеству со Стэном Ли. ",
+        "q": "количество комиксов 213",
+          "image_url": "https://st.kp.yandex.net/images/actor_iphone/iphone360_36183.jpg",
+        "image_big_url": "https://www.oreanda.ru/aimg/79x16000/1248146/head_0.png"
+      },
+     
+     
+      {
+        "id": 7,
+        "name": "Алан Мур",
+        "description": "английский писатель, известный, прежде всего, работой в комиксах. Создал ряд произведений, положительно отмеченных критиками.",
+        "q": "количество комиксов 123",
+          "image_url": "http://stuki-druki.com/aforizms/Alan%20Moore01.jpg",
+        "image_big_url": "https://redrumers.files.wordpress.com/2016/08/jerusalemnews.jpg?w=768"
+      },
+      {
+        "id": 8,
+        "name": "Уилл Айснер",
+       "description": "мериканский художник, издатель, сценарист еврейского происхождения. Считается одним из отцов современного комикса ",
+        "q": "количество комиксов 323",
+          "image_url": "https://www.kultoboz.ru/sites/default/files/images/news/literature/1247830030_will_1970s.jpg",
+        "image_big_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Will_Eisner2.jpg/267px-Will_Eisner2.jpg"
+      }
+      
+     
     ]
   }
