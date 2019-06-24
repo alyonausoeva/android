@@ -11,9 +11,10 @@
       {
         "id": 2,
         "name": "Джек Керба",
-        "description": "Эксцентричный гений, миллионер, дамский угодник и филантроп Тони Старк также является супергероем в броне, известным как Железный Человек. ",
-        "image_url": "https://i.pinimg.com/564x/09/6f/2c/096f2c148359cf329f2755b60515c972.jpg",
-        "image_big_url": "https://i.pinimg.com/564x/09/6f/2c/096f2c148359cf329f2755b60515c972.jpg"
+        "description": " американский писатель, художник и редактор комиксов. Участвовал в создании таких персонажей, как Капитан Америка, Халк, Фантастическая четвёрка, Люди Икс и др. ",
+        "q": "количество комиксов 453",
+          "image_url": "https://st.kp.yandex.net/images/actor_iphone/iphone360_29954.jpg",
+        "image_big_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jack_Kirby_%281982%29_%28cropped%29.jpg/250px-Jack_Kirby_%281982%29_%28cropped%29.jpg"
       },
       {
         "id": 3,
@@ -24,10 +25,10 @@
       },
       {
         "id": 4,
-        "name": "Капитан марвел",
-        "description": "Кэрол Денверс (Carol Danvers) — пилот в Воздушных силах США, которая получила силы космического происхождения и теперь её называют Капитан Марвел (Captain Marvel). ",
-        "image_url": "https://i.pinimg.com/564x/20/29/d7/2029d723a1edd5e7058921725eb130fb.jpg",
-        "image_big_url": "https://i.pinimg.com/564x/20/29/d7/2029d723a1edd5e7058921725eb130fb.jpg"
+        "name": "Стив Дитко",
+        "description": "американский писатель и художник комиксов чехословацкого происхождения[8], известный благодаря своим работам в компании Marvel Comics и сотрудничеству со Стэном Ли. ",
+        "image_url": "https://st.kp.yandex.net/images/actor_iphone/iphone360_36183.jpg",
+        "image_big_url": "https://www.oreanda.ru/aimg/79x16000/1248146/head_0.png"
       },
      
      
